@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands warning-piece: shewing the nature, danger, and ill effects of civill-warre, and of those nations which have bin infested with it, described. Very necessary for these times wherein we are in so great feare and imminent danger of civill dissention. With a true relation of the miseries and distractions of Germany, France, Ireland, and Spaine. Also the sudden death of the Queen Mother of France. By Thomas Morton.</title>
+            <author>Morton, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89338</idno>
+            <idno type="STC">Wing M2837</idno>
+            <idno type="STC">Thomason E109_14</idno>
+            <idno type="STC">ESTC R7397</idno>
+            <idno type="EEBO-CITATION">99873127</idno>
+            <idno type="PROQUEST">99873127</idno>
+            <idno type="VID">125583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125583)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands warning-piece: shewing the nature, danger, and ill effects of civill-warre, and of those nations which have bin infested with it, described. Very necessary for these times wherein we are in so great feare and imminent danger of civill dissention. With a true relation of the miseries and distractions of Germany, France, Ireland, and Spaine. Also the sudden death of the Queen Mother of France. By Thomas Morton.</title>
+                  <author>Morton, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Favvcet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Aug. 5. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author not to be confused with Thomas Morton, Bp. of Durham.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marie de Médicis, --  Queen, consort of Henry IV, King of France, 1573-1642.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125583:1" rendition="simple:additions"/>
+            <p>ENGLANDS WARNING-PIECE: Shewing The Nature, Danger, and ill Effects OF CIVILL-WARRE, And of thoſe NATIONS which have bin infeſted with it, deſcribed.</p>
+            <p>Very neceſſary for theſe Times wherein we are in ſo great feare and imminent danger of Civill Diſſention.</p>
+            <p>WITH A true Relation of the Miſeries and Diſtractions of <hi>Germany, France, Ireland,</hi> and <hi>Spaine.</hi>
+            </p>
+            <p>Alſo the ſudden Death of the Queene Mother of <hi>FRANCE.</hi>
+            </p>
+            <p>By <hi>THOMAS MORTON.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by T. FAVVCET, <hi>Aug.</hi> 5. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125583:2"/>
+            <pb n="1" facs="tcp:125583:2"/>
+            <p>
+               <seg rend="decorInit">N</seg>Ever hath any Kingdome or Countrey been bleſt with ſo flouriſhing an eſtate, and ſuch a bleſſed condition, the ſecurity of whoſe Peace, and the durance of whoſe happineſſe, hath alwayes preſerved them both from the hoſtility of a forraigne Foe, and the annoyance of an inteſtine Enemy; nay which is more, let us unfold all the ſecrets of Antiquity, and J beleeve it will be very difficult to any one Prince whoſe Raigne (if it were of any conſiderable number of yeares) hath proved ſo fortunate as to be totally free from home<g ref="char:EOLhyphen"/>bred Conſpirators or forraigne Enemies. But if ever any State hath injoyed Peace, ſecurity and Liberty, it hath bin that of <hi>England,</hi> if e<g ref="char:EOLhyphen"/>ver any Church hath attained to Uniformity, Sincerity and Truth, it hath been the Church of <hi>England,</hi> this having bin long free from the blindneſſe of Ignorance, the erroneouſneſſe of Hereſie, and the folly of Superſtition, that, from the cruelty of Warre, the miſchiefe of danger, and the unſufferable irkſomneſſe of Slavery. So that the State being bleſt in pious Princes and loyall Subjects, the Church in learned Tea<g ref="char:EOLhyphen"/>chers and religious People, they were both in themſelves happie and of others admired, ſo much doth the Unity of a Nation conduce to the tranquility thereof; But never is the Devill more buſie then when he ſees how hard his labour is, many wayes did that Machiavill uſe to unty that <hi>Gordian</hi> knot, firſt he tryes his skill abroad, and from <hi>Spaine</hi> he brings us Enemies to fright us out of our ſo long in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyed Securi<g ref="char:EOLhyphen"/>ty: But by the indulgent Providence of God and the never-yeelding valour of our Sea Captaines, they did once againe by ſad experience find what mettle the <hi>Engliſh</hi> were made of, and what Noble blood flowed in their full veynes; For no ſooner had they given Battell, but they were conquered no ſooner had they approached our Engliſh Coaſts but they were all ſcattered, and brought to the worſt of miſ<g ref="char:EOLhyphen"/>fortunes to intreat us for Succour, whoſe Deſtruction they had before threatned and were come to performe their promiſe, made in as ill a
+<pb n="2" facs="tcp:125583:3"/>
+time as with bad ſucceſſe performed. For in ſtead of Miſery they brought us Happineſſe, in ſtead of Poverty the treaſure of their owne. Spoiles, in the place of Ignominy the glorious names of <hi>Vndanted Souldiers.</hi>
+            </p>
+            <p>Since this Plot was defeated the next muſt be more ſubtile, and come even from our owne bowels, <hi>Suis eſt ipſa viribus rue<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> we muſt be our owne Enemie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or elſe never miſerable, then muſt the State be vexed with unheard of Taxes, and griping Monopolies, and the Church too that it might ſhare in the others m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeries with uſurping Rulers, and proud Governours, ſtarving the Soules of the flocke to pamper their owne bodies &amp; leaving out the chiefe points of Religion while they faſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n upon us unneceſſity Ceremonies. Th s had better ſucceſſe then the form r, and for ſome time to the g iefe of the Subjects did con<g ref="char:EOLhyphen"/>tinue, but ſtraight the cauſe of both diſeaſes being by skilfull Phyſiti<g ref="char:EOLhyphen"/>ans look'd into, the Cure was found out and preſcribed; which Phy<g ref="char:EOLhyphen"/>ſitians were this preſent <hi>Parliament</hi> who have happily begun to re<g ref="char:EOLhyphen"/>medy thoſe over growne Diſeaſes, and have becauſe ſome would ad<g ref="char:EOLhyphen"/>mit of no other Cure cut them off. But now that Enemy to Peace hath uſ d the utmoſt of his skill and by his baſe Enemies the Malig<g ref="char:EOLhyphen"/>nant Spirits, leſt this happie meanes ſhould proceed, hath ſet a diffe<g ref="char:EOLhyphen"/>ren<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e betwixt the <hi>King</hi> and <hi>Parliament,</hi> ſeeking to make that our Mi<g ref="char:EOLhyphen"/>ſery which was ſought out for our Remedy, but the continuance of Gods Providence, and the induſtrious care of this Honourable <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> will I hope ere long conſound his devices, and be a happie meanes, whereby we may recover our former Glory, Peace, and Fe<g ref="char:EOLhyphen"/>licity, in the meane time let us confide in their Wiſdome, and not raſhly goe about to gaine thoſe Good ends by ſo bad a <hi>Medium</hi> as that of <hi>Civill warre.</hi> For wee muſt not expect that the happineſſe which after it may be injoyed, which is doubtfull, will countervaile the Miſeries that in the attayning of it we ſhall certainly indure, that therefore wee may the more ab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re it, and uſe all meanes to pre<g ref="char:EOLhyphen"/>vent it, I ſhall according to my ability ſet downe the Nature, danger and cauſe of it, and the meanes to avoyd it.</p>
+            <p>How miſerable that Nation is which is intangled with any kind of Warre, we m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y eaſily ſee if we looke backe into the former ages, and into the lam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntable conditions of thoſe Countries which have beene the Stages of that Tragedy: Ancient writers doe abundantly reſtifie by their full deſcriptions, how flouriſhing, rich, ſtately, and Victori<g ref="char:EOLhyphen"/>ous that great City of <hi>Troy</hi> had (before the ſubverſion of it) alwaies
+<pb facs="tcp:125583:3"/>
+been, but by the ſavage cruelty of a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> warre, it was made ſo mi<g ref="char:EOLhyphen"/>ſerable, that it was neither great, nor yet a City, but a ruinous heape of ſtones, an unhappy ſigne of what it had been, and as ſaith the Poet, <hi>Verſa eſt intinere.—</hi>
+            </p>
+            <p>To come nearer how great and glorious, how happy and peaceable, how feared and admired have the <hi>Jewes</hi> beene, whoſe Character it once was to be Gods peculiar People; their Territories were as large, their Walls as high, their Pallaces as ſtately as any Nations in the whole Vniverſe, nay their Temple alone (ſuch was the beauty of it, ſuch the riches) would have bought many a whole Kingdome, and yet what miſeries did they many years together endure in their long ſiege for want of Food, for want of water, for want of all things, and all this for the want of this one thing Peace, their Cities and Temples were burn'd to Aſhes, themſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves taken Captives, and miſerably but<g ref="char:EOLhyphen"/>chered nay they were ſcorned of other Nations (to whom they had once been a terrour) for that (ſo poorely were they eſteemed) no leſſe then 30 <hi>Iewes</hi> were ſold for one peny, theſe were forraigne Warres.</p>
+            <p>To come nearer yet, to what a lamentable eſtate is all <hi>Germany</hi> re<g ref="char:EOLhyphen"/>duced, what miſeries hath it endured? Nay what hath it not endured by forraign and home bred enemies together? Let us conſider what civill Warres have wrought in them, and to them muſt we needs be compared, if amongſt us (as amongſt them there have) civill diſſen<g ref="char:EOLhyphen"/>tions ſhould ariſe.</p>
+            <p>Nay let us come ſo neare as to our ſelves, to thoſe at leaſt which ſhould be as deare unto us as our ſelves, our poore diſtreſſed brethren in <hi>Ireland,</hi> whoſe manifeſt wrongs and grievous calamities, doe cry to Heaven for vengeance againſt thoſe enemies to peace and Reli<g ref="char:EOLhyphen"/>gion the moſt wicked Papiſts, of whoſe cruelty, Idolatry and Anti<g ref="char:EOLhyphen"/>chriſtian Impiety, what Nation is there that is not ſenſible? A peo<g ref="char:EOLhyphen"/>ple ſo execrably cruell, that they make it a point of Religion and a worke meritorious to murder Gods people under the name of <hi>He<g ref="char:EOLhyphen"/>retikes,</hi> what miſery; ſlavery, tyranny, nay what death, nay what hor<g ref="char:EOLhyphen"/>rid kind of death theſe men our poore brethren doe endure, under theſe other men (if I may call them by ſo good a name as men) our and their enemies? ſome looſe their Lands, ſome their liberties, ſome both, others with both their lives &amp; eſtates, and happy is he that with loſſe of eſtate can eſcape, can theſe men be as they pretend Gods peo<g ref="char:EOLhyphen"/>ple; when by their ungodly, nay unmanly actions they prove them<g ref="char:EOLhyphen"/>ſelves no be of more then <hi>Turkiſh</hi> cruelty.</p>
+            <p>My pen cannot ſpeake in a dialect ſad enough the ones misfortune
+<pb n="4" facs="tcp:125583:4"/>
+and the others inſulting tyranny, theſe and more then theſe are the miſhaps which befall a Land infected with civill Warre which of all warres is moſt dangerous and pernicious, in the other we are made miſerable by our enemies in this our friends are our enemies, in that we may be proſperous, in this we muſt needs be miſerable, thoſe are undertaken of neceſſity, this is begun by trechery pride, cruelty, op<g ref="char:EOLhyphen"/>preſſion, and a number more of horrid crimes, and ends in confuſion and deſtruction, all contribute and lend ayd againſt our open ene<g ref="char:EOLhyphen"/>mies, when we are at warres with our ſelves who can be ſafe? or who ſecure? Victory being here a Miſery, and Conqueſt an Overthrow, he alone thinkes himſelfe ſafe, who ſeeth none ſurvive to moleſt him and who is happy but bankrouts, ferlorne &amp; deſperate men, and thoſe whoſe fortunes can be raiſed no other way, and ſuch men are, as the greateſt offenders for the greateſt cauſes of ſuch broyles and diſſenti<g ref="char:EOLhyphen"/>ons, for none but the enemies of the Common-wealth will diſturbe its peace or ſeek its ruine, theſe are the Incendiaries in a Kingdome, theſe cannot indure that there ſhou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be wholeſome Lawes to puniſh Delinquents, for then themſelves would not eſcape, but they breed variance, invent Plots, foment Jealouſies and all to diſtract, diſturbe, and if they could quite overturne the Republike, and with ſuch ſu<g ref="char:EOLhyphen"/>gred language and ſubtile carriage doe they infuſe their guilded poy<g ref="char:EOLhyphen"/>ſons, and ſweetned infections into thoſe that cheriſh them, that for the preſent they ſuppoſe them their greateſt friends choiſeſt Coun<g ref="char:EOLhyphen"/>ſellours who will at laſt prove themſelves their moſt dangerous ene<g ref="char:EOLhyphen"/>mies, and it is no ſmall point of theſe mens pollicy by all waies poſſi<g ref="char:EOLhyphen"/>ble to reader thoſe odious and contemptible to the common people, whoſe onely end it is to ſettle peace and procure the happineſſe of the people.</p>
+            <p>To the wicked inſinuations and miſchievous practiſes of theſe men muſt we needs attribute the unhappineſſe of our preſent condition &amp; that ſuch may receive condigne puniſhment for their baſe actions, we ſhould as in our Proteſtation we are bound to uſe all lawfull meanes, peace being that which every good Subject doth deſire, and theſe men being the ſoareſt enemies to a well-ſetled peace; nor is it the miſchiefe alone of Civill warre to divide a Land againſt it ſelfe which is miſery enough but it is alſo a ſiniſter cauſe of introducing forraigne enemies a ſoe taking his beſt occaſion by the weakneſſe of his foe to inſult o<g ref="char:EOLhyphen"/>ver him, and then who knowes not that enemies abroad and enemies at home muſt needs bring a Land to the loweſt depth of a moſt deſpe<g ref="char:EOLhyphen"/>rate miſery, but let us not be ſo buſied in deploring the ſad caſe of it as
+<pb n="5" facs="tcp:125583:4"/>
+not to ſeek a timely remedy for it, for if this be not prevented who a<g ref="char:EOLhyphen"/>mongſt us can ſay he hath a Houſe, Land, a Wife, Children, nay who can ſafely ſay he hath a Life, ſo uncertain and in ſo great danger will all things hang. Another let to unity, and that a great one too are the un<g ref="char:EOLhyphen"/>happy differences betwixt the <hi>King</hi> and his <hi>Parliament,</hi> the occaſions of which differences have bin by many touched, and I wiſh they had not the misfortune to know them, or we the unhappineſſe to feele them, for how can the Kingdom ſubſiſt if the Pillars by whom it ſub<g ref="char:EOLhyphen"/>ſiſteth are undermined? how can peace flouriſh when the maintainers of it are not at peace amongſt themſelves? How can happineſſe attain to us if the introducers of it are at unhappy variance? O let it then be the deſire of all true ſubjects that theſe may agree, concord, and be u<g ref="char:EOLhyphen"/>nited; that themſelves may enjoy again their Peace and Liberties, and happily avoid what is ſo much feared Civill diſſention, for moſt ma<g ref="char:EOLhyphen"/>nifeſt it is, that a King agreeing with a truly ſetled Parliament muſt needs make his Kingdom truly flouriſh, for they being choſen from all parts of the Kingdome, and by the free Election of the men in thoſe parts muſt needs be ſuppoſed to know what the grievances or wrongs what the troubles or vexations of the whole Land are and none doub<g ref="char:EOLhyphen"/>teth, but (were there an agreement betwixt the head and theſe mem<g ref="char:EOLhyphen"/>bers) hoſe wrongs would be righted, thoſe troubles would be appea<g ref="char:EOLhyphen"/>ſed and thoſe vexations quieted and ſecured, before this be done it cannot be expected that we ſhould be ſafe and peaceable and better were it to enjoy peace at hard conditions, then that we ſhould be em<g ref="char:EOLhyphen"/>broyled with civill diſtractions, for then would the Lawes be caſt of, the Magiſtrates deſpiſed, the liberty of Subjects turned into the licen<g ref="char:EOLhyphen"/>tiouſneſſe of Rebels, and all things ſtrangely metamorphoſed into a confuſed Chaos, and we all know that the Lawes are the ſinewes and nerves which conſolidate and ſtrengthen the Commonalty, they are the authority by which every man challengeth his right and enjoyes his owne, in them the proſperity of the Subject, being ſet downe, the puniſhment of offendors preſcribed, and all politicall government eſtabliſhed, then by whom were all theſe made and enacted but by the W ſdome and Counſell of Kings and their Parliaments the Ma<g ref="char:EOLhyphen"/>giſtrates are thoſe (t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at being authorized by thoſe that made them) doe give r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe to the Lawes, by declaring them and putting them in fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, by ſuch the Lawes which in themſelves are dead being enlive<g ref="char:EOLhyphen"/>ned for they invindicating thoſe that ſuffer, and puniſhing thoſe that doe wrong and in juſtice doe execute &amp; adminiſter juſtice, upon which the Lawes are founded.</p>
+            <p>The liberty of the Subject is not ſuch a licentiouſneſſe as will autho<g ref="char:EOLhyphen"/>rize
+<pb n="6" facs="tcp:125583:5"/>
+him to doe any thing, without feare or care of any enſuing dan<g ref="char:EOLhyphen"/>ger but it is that whereby he enjoyes that which is properly his own without any moleſtation or trouble, and this liberty alſo produceth from the ordaining of good Lawes which are by Kings and Parlia<g ref="char:EOLhyphen"/>ments, and the executing them which is by Magiſtrates, we may then plainly ſee that the maintenance of the Kings honour and eſtate, the power and priviledges of Parliaments, and the liberty and property of the Subjects, are thoſe which make a State politicall truly peace<g ref="char:EOLhyphen"/>able, but when the Kings Prerogative is invaded, the juſt power of Parliaments by every one queſtioned, the liberty of the Subject miſ<g ref="char:EOLhyphen"/>interpreted, all things turne into a confuſion, and ſtraight is fomented a civill Warre ſooner begun then ended, and produced by as bad cau<g ref="char:EOLhyphen"/>ſes, as it ſelfe doth generate diſaſtrous effects.</p>
+            <p>Let then the Law proceed duly and juſtly againſt thoſe magligannt ſpirits, whoſe onely aime it is to bring ſuch ſad ends to paſſe, and to poiſon the Land with the infection of Arbitrary government, that all things may be lawfull nothing ſafe, which how great miſery it will bring upon us a very Heathen could tell, who openly profeſſed, <hi>That he had rather live in a Land where nothing is, then where all things were common and lawfull.</hi>
+            </p>
+            <p>Nor is it <hi>Englands</hi> unfortunate condition alone to be ſo neare to its ruine and de<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ruction, nor is it onely <hi>Ireland</hi> whoſe diſtreſſes want re<g ref="char:EOLhyphen"/>liefe, but both our neighbours <hi>France</hi> and <hi>Spain</hi> are violently oppreſ<g ref="char:EOLhyphen"/>ſed with their owne greatneſſe. Jn <hi>Spain</hi> whole Countries revolt a<g ref="char:EOLhyphen"/>gainſt their King and chooſe another, thinking themſelves too great a Nation to be ſwayed by one Scepter, or ruled by one Monarch.</p>
+            <p>
+               <hi>Caſtile</hi> and <hi>Portugall</hi> ſcorning to be leſſe then Kingdomes, by the loſſe of which great Countries how much the honour and revenue of that King will be impoveriſhed we may eaſily judge</p>
+            <p>In <hi>France</hi> not only the Kingdome but the life of the King himſelfe was in great danger, by the Stratagems they ſay of an unnaturall Mo<g ref="char:EOLhyphen"/>ther and an ambitious Brother, ſtrange that he ſhould be in danger of loſing his life by her that firſt gave it him! and that a Brother ſhould prove a Traytor! but the horridneſſe of this plot was defeated to the deſtruction of the Conſpirators; for no ſo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner was it knowne to be divulged, but it ſhortned (ſome ſay tooke away) the life of her, that world have taken away the life of her Sonne. Shee within five dayes expiring. Such is the deplorable eſtate of ill ſucceſſe in ill Enterpri<g ref="char:EOLhyphen"/>zes, periſh all they who deſire the Miſery &amp; o pugne the Happineſſe of this Land, and by the goodneſſe of GOD and care of this prudent PARLIAMENT, let their horrid deviſes periſh with themſelves.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
